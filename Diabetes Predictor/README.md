@@ -29,7 +29,7 @@ The dataset used is [Pima Indians Diabetes Database](https://www.kaggle.com/ucim
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/diabetes-predictor.git
+git clone https://github.com/OmOnGuard/Diabetes-predictor.git
 cd diabetes-predictor
 
 ## Install dependencies
